@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      5974,        159]
-NotebookOptionsPosition[      5052,        136]
-NotebookOutlinePosition[      5400,        151]
-CellTagsIndexPosition[      5357,        148]
+NotebookDataLength[      1344,         45]
+NotebookOptionsPosition[       957,         31]
+NotebookOutlinePosition[      1303,         46]
+CellTagsIndexPosition[      1260,         43]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -24,119 +24,14 @@ Cell[BoxData["Quit"], "Input",
 30c4558f951a"],
 
 Cell[BoxData[
- RowBox[{"Needs", "[", "\"\<BugTracker`\>\"", "]"}]], "Input",
- CellChangeTimes->{{3.7178667043143325`*^9, 
-  3.717866708471336*^9}},ExpressionUUID->"bc0729e5-e4e0-4581-8cd2-\
-4a92f1a57625"],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[
- RowBox[{"DeployForms", "[", "]"}]], "Input",
- CellChangeTimes->{{3.7178667137674065`*^9, 3.7178667165831017`*^9}, {
-  3.717866905206173*^9, 
-  3.717866937982242*^9}},ExpressionUUID->"c93bdd5b-5953-47f4-948b-\
-6374cbff0b13"],
-
-Cell[BoxData[
- RowBox[{"{", 
-  RowBox[{
-   InterpretationBox[
-    RowBox[{"CloudObject", "[", 
-     TemplateBox[{
-      "\"https://www.wolframcloud.com/objects/user-7053ce31-817f-4643-aec1-\
-eda27051bba6/bugtracker/forms/report\"",
-       "https://www.wolframcloud.com/objects/user-7053ce31-817f-4643-aec1-\
-eda27051bba6/bugtracker/forms/report"},
-      "HyperlinkURL"], "]"}],
-    CloudObject[
-    "https://www.wolframcloud.com/objects/user-7053ce31-817f-4643-aec1-\
-eda27051bba6/bugtracker/forms/report"],
-    SelectWithContents->True], ",", 
-   InterpretationBox[
-    RowBox[{"CloudObject", "[", 
-     TemplateBox[{
-      "\"https://www.wolframcloud.com/objects/user-7053ce31-817f-4643-aec1-\
-eda27051bba6/bugtracker/forms/search\"",
-       "https://www.wolframcloud.com/objects/user-7053ce31-817f-4643-aec1-\
-eda27051bba6/bugtracker/forms/search"},
-      "HyperlinkURL"], "]"}],
-    CloudObject[
-    "https://www.wolframcloud.com/objects/user-7053ce31-817f-4643-aec1-\
-eda27051bba6/bugtracker/forms/search"],
-    SelectWithContents->True]}], "}"}]], "Output",
- CellChangeTimes->{3.7178685481605406`*^9, 3.7178685811166196`*^9, 
-  3.7178691248513746`*^9, 3.717869265881522*^9, 3.7178694038101006`*^9, 
-  3.717869722772148*^9, 3.7178697639036465`*^9, 3.7178698533096824`*^9, 
-  3.717870192439088*^9, 3.7178703337007113`*^9, 3.7178705721581964`*^9, 
-  3.71795554100851*^9, 3.717955623753849*^9, 3.717955705748994*^9, 
-  3.717955928061835*^9, 3.717956028641958*^9, 
-  3.717956184275345*^9},ExpressionUUID->"29dd9397-c62c-4808-ae32-\
-559131f49c4a"]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[
- RowBox[{"DeployAPIs", "[", "]"}]], "Input",
- CellChangeTimes->{{3.7178667137674065`*^9, 3.7178667165831017`*^9}, {
-  3.717866905206173*^9, 3.717866937982242*^9}, {3.7179555386423635`*^9, 
-  3.71795554282675*^9}},ExpressionUUID->"251aad36-60ec-4479-9f98-\
-332a5abc23f1"],
-
-Cell[BoxData[
- RowBox[{"{", 
-  RowBox[{
-   InterpretationBox[
-    RowBox[{"CloudObject", "[", 
-     TemplateBox[{
-      "\"https://www.wolframcloud.com/objects/user-7053ce31-817f-4643-aec1-\
-eda27051bba6/bugtracker/apis/create_index\"",
-       "https://www.wolframcloud.com/objects/user-7053ce31-817f-4643-aec1-\
-eda27051bba6/bugtracker/apis/create_index"},
-      "HyperlinkURL"], "]"}],
-    CloudObject[
-    "https://www.wolframcloud.com/objects/user-7053ce31-817f-4643-aec1-\
-eda27051bba6/bugtracker/apis/create_index"],
-    SelectWithContents->True], ",", 
-   InterpretationBox[
-    RowBox[{"CloudObject", "[", 
-     TemplateBox[{
-      "\"https://www.wolframcloud.com/objects/user-7053ce31-817f-4643-aec1-\
-eda27051bba6/bugtracker/apis/search\"",
-       "https://www.wolframcloud.com/objects/user-7053ce31-817f-4643-aec1-\
-eda27051bba6/bugtracker/apis/search"},
-      "HyperlinkURL"], "]"}],
-    CloudObject[
-    "https://www.wolframcloud.com/objects/user-7053ce31-817f-4643-aec1-\
-eda27051bba6/bugtracker/apis/search"],
-    SelectWithContents->True], ",", 
-   InterpretationBox[
-    RowBox[{"CloudObject", "[", 
-     TemplateBox[{
-      "\"https://www.wolframcloud.com/objects/user-7053ce31-817f-4643-aec1-\
-eda27051bba6/bugtracker/apis/update_index\"",
-       "https://www.wolframcloud.com/objects/user-7053ce31-817f-4643-aec1-\
-eda27051bba6/bugtracker/apis/update_index"},
-      "HyperlinkURL"], "]"}],
-    CloudObject[
-    "https://www.wolframcloud.com/objects/user-7053ce31-817f-4643-aec1-\
-eda27051bba6/bugtracker/apis/update_index"],
-    SelectWithContents->True]}], "}"}]], "Output",
- CellChangeTimes->{3.7179556430519795`*^9, 3.7179557075051765`*^9, 
-  3.7179559311174245`*^9, 3.7179560303766184`*^9, 
-  3.7179561852377186`*^9},ExpressionUUID->"6e31660d-e7ec-45a0-b32f-\
-79a393d85505"]
-}, Open  ]],
-
-Cell[BoxData["CreateSearchIndex"], "Input",
- CellChangeTimes->{{3.7179557936191206`*^9, 
-  3.7179557954595613`*^9}},ExpressionUUID->"05a431c5-286a-4d0c-a510-\
-fa25479139ad"]
+ RowBox[{"Needs", "[", "\"\<CoinMarketCap`\>\"", "]"}]], "Input",
+ CellChangeTimes->{{3.7178667043143325`*^9, 3.717866708471336*^9}, 
+   3.7185482199477353`*^9},ExpressionUUID->"bc0729e5-e4e0-4581-8cd2-\
+4a92f1a57625"]
 },
 WindowSize->{958, 998},
 WindowMargins->{{Automatic, -967}, {Automatic, 0}},
-FrontEndVersion->"11.2 for Microsoft Windows (64-bit) (September 10, 2017)",
+FrontEndVersion->"11.3 for Microsoft Windows (64-bit) (October 22, 2017)",
 StyleDefinitions->"Default.nb"
 ]
 (* End of Notebook Content *)
@@ -151,16 +46,7 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[558, 20, 160, 3, 28, "Input",ExpressionUUID->"75b29b73-ffba-4332-9f83-30c4558f951a"],
-Cell[721, 25, 204, 4, 28, "Input",ExpressionUUID->"bc0729e5-e4e0-4581-8cd2-4a92f1a57625"],
-Cell[CellGroupData[{
-Cell[950, 33, 238, 5, 28, "Input",ExpressionUUID->"c93bdd5b-5953-47f4-948b-6374cbff0b13"],
-Cell[1191, 40, 1547, 34, 59, "Output",ExpressionUUID->"29dd9397-c62c-4808-ae32-559131f49c4a"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[2775, 79, 284, 5, 28, "Input",ExpressionUUID->"251aad36-60ec-4479-9f98-332a5abc23f1"],
-Cell[3062, 86, 1798, 42, 125, "Output",ExpressionUUID->"6e31660d-e7ec-45a0-b32f-79a393d85505"]
-}, Open  ]],
-Cell[4875, 131, 173, 3, 28, "Input",ExpressionUUID->"05a431c5-286a-4d0c-a510-fa25479139ad"]
+Cell[721, 25, 232, 4, 28, "Input",ExpressionUUID->"bc0729e5-e4e0-4581-8cd2-4a92f1a57625"]
 }
 ]
 *)
