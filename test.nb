@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    461055,       9070]
-NotebookOptionsPosition[    458701,       9021]
-NotebookOutlinePosition[    459047,       9036]
-CellTagsIndexPosition[    459004,       9033]
+NotebookDataLength[    516563,      10150]
+NotebookOptionsPosition[    513340,      10086]
+NotebookOutlinePosition[    513689,      10101]
+CellTagsIndexPosition[    513646,      10098]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -8548,7 +8548,7 @@ Cell[BoxData[
            TypeSystem`PackageScope`AtomShape[34], {"total_market_cap_eur"} -> 
            TypeSystem`PackageScope`AtomShape[60], {"total_24h_volume_eur"} -> 
            TypeSystem`PackageScope`AtomShape[60]], 1], "InitialData" -> 
-        TypeSystem`PackageScope`CacheHandle[1150018176], "Type" -> 
+        TypeSystem`PackageScope`CacheHandle[1679091342], "Type" -> 
         TypeSystem`Struct[{
           "total_market_cap_usd", "total_24h_volume_usd", 
            "bitcoin_percentage_of_market_cap", "active_currencies", 
@@ -8562,7 +8562,7 @@ Cell[BoxData[
            TypeSystem`Atom[Integer], 
            TypeSystem`Atom[Real], 
            TypeSystem`Atom[Real]}], "HandleQ" -> True, "RowTarget" -> 20, 
-        "Data" -> TypeSystem`PackageScope`CacheHandle[1150018176]], 
+        "Data" -> TypeSystem`PackageScope`CacheHandle[1679091342]], 
       TypeSystem`NestedGrid`PackagePrivate`$path$$ = {}, 
       TypeSystem`NestedGrid`PackagePrivate`$pos$$ = 1, 
       TypeSystem`NestedGrid`PackagePrivate`$grid$$ = 
@@ -8595,16 +8595,16 @@ Cell[BoxData[
                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 879404438][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 154999119][{
                     Key["total_market_cap_usd"]}]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["total_market_cap_usd"]]], "Mouse"], Background -> 
                 GrayLevel[0.95], Alignment -> {Left, Baseline}], 
                Pane[
                 Annotation[
-                 RawBoxes["184387502258."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 RawBoxes["184517224586."], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["total_market_cap_usd"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -8634,16 +8634,16 @@ Cell[BoxData[
                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 879404438][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 154999119][{
                     Key["total_24h_volume_usd"]}]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["total_24h_volume_usd"]]], "Mouse"], Background -> 
                 GrayLevel[0.95], Alignment -> {Left, Baseline}], 
                Pane[
                 Annotation[
-                 RawBoxes["5394411954."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 RawBoxes["5393715826."], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["total_24h_volume_usd"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -8673,16 +8673,16 @@ Cell[BoxData[
                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 879404438][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 154999119][{
                     Key["bitcoin_percentage_of_market_cap"]}]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["bitcoin_percentage_of_market_cap"]]], "Mouse"], 
                 Background -> GrayLevel[0.95], Alignment -> {Left, Baseline}], 
                Pane[
                 Annotation[
-                 RawBoxes["59.69"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 RawBoxes["59.65"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["bitcoin_percentage_of_market_cap"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -8712,16 +8712,16 @@ Cell[BoxData[
                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 879404438][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 154999119][{
                     Key["active_currencies"]}]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["active_currencies"]]], "Mouse"], Background -> 
                 GrayLevel[0.95], Alignment -> {Left, Baseline}], 
                Pane[
                 Annotation[
-                 RawBoxes["888"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 RawBoxes["887"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["active_currencies"]]], "Mouse"], 
                 ImageSize -> {{34, Full}, Automatic}, 
@@ -8751,16 +8751,16 @@ Cell[BoxData[
                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 879404438][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 154999119][{
                     Key["active_assets"]}]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["active_assets"]]], "Mouse"], Background -> 
                 GrayLevel[0.95], Alignment -> {Left, Baseline}], 
                Pane[
                 Annotation[
                  RawBoxes["355"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["active_assets"]]], "Mouse"], 
                 ImageSize -> {{34, Full}, Automatic}, 
@@ -8790,16 +8790,16 @@ Cell[BoxData[
                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 879404438][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 154999119][{
                     Key["active_markets"]}]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["active_markets"]]], "Mouse"], Background -> 
                 GrayLevel[0.95], Alignment -> {Left, Baseline}], 
                Pane[
                 Annotation[
-                 RawBoxes["6352"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 RawBoxes["6344"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["active_markets"]]], "Mouse"], 
                 ImageSize -> {{34, Full}, Automatic}, 
@@ -8829,16 +8829,16 @@ Cell[BoxData[
                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 879404438][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 154999119][{
                     Key["total_market_cap_eur"]}]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["total_market_cap_eur"]]], "Mouse"], Background -> 
                 GrayLevel[0.95], Alignment -> {Left, Baseline}], 
                Pane[
                 Annotation[
-                 RawBoxes["158602385166."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 RawBoxes["158713966865."], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["total_market_cap_eur"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -8868,16 +8868,16 @@ Cell[BoxData[
                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 879404438][{
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 154999119][{
                     Key["total_24h_volume_eur"]}]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["total_24h_volume_eur"]]], "Mouse"], Background -> 
                 GrayLevel[0.95], Alignment -> {Left, Baseline}], 
                Pane[
                 Annotation[
-                 RawBoxes["4640046598."], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+                 RawBoxes["4639447818."], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
                   GeneralUtilities`Slice[
                    Key["total_24h_volume_eur"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
@@ -8928,7 +8928,7 @@ Cell[BoxData[
                 TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                  TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                  TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                 TypeSystem`NestedGrid`PackagePrivate`$grid$$, 879404438][
+                 TypeSystem`NestedGrid`PackagePrivate`$grid$$, 154999119][
                 TypeSystem`NestedGrid`PackagePrivate`tmpData$]]; If[
                Not[
                 FailureQ[TypeSystem`NestedGrid`PackagePrivate`tmpGrid$]], 
@@ -8959,14 +8959,14 @@ Cell[BoxData[
            TypeSystem`NestedGrid`PackagePrivate`$state$$, 
             TypeSystem`NestedGrid`PackagePrivate`$path$$, 
             TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-            TypeSystem`NestedGrid`PackagePrivate`$grid$$, 879404438]]]], 
+            TypeSystem`NestedGrid`PackagePrivate`$grid$$, 154999119]]]], 
         TrackedSymbols :> {TypeSystem`NestedGrid`PackagePrivate`$path$$}], 
       TypeSystem`NestedGrid`PackagePrivate`$bottomBar$$ = Framed[
         Dynamic[
          Replace[
           MouseAnnotation[Null], {
-          TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][Null] -> 
-           "", TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[879404438][
+          TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][Null] -> 
+           "", TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[154999119][
              Pattern[TypeSystem`NestedGrid`PackagePrivate`path, 
               Blank[]]] :> (
             TypeSystem`NestedGrid`PackagePrivate`$lastPath = 
@@ -9013,14 +9013,1079 @@ Cell[BoxData[
   "CopyTag",
   DisplayFunction->(#& ),
   InterpretationFunction->("Dataset[<>]"& )]], "Output",
+ CellChangeTimes->{3.718551394464259*^9, 
+  3.7185548135064898`*^9},ExpressionUUID->"5f093bfd-c8b9-4224-97e6-\
+9c6adf00b32f"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"SingleTicker", "[", "\"\<bitcoin\>\"", "]"}]], "Input",
+ CellChangeTimes->{{3.7185551100074034`*^9, 
+  3.718555115076248*^9}},ExpressionUUID->"96680c75-3f03-4680-9546-\
+2f407519c759"],
+
+Cell[BoxData[
+ TemplateBox[{TagBox[
+    DynamicModuleBox[{
+     TypeSystem`NestedGrid`PackagePrivate`$state$$ = 
+      Data`UnorderedAssociation[
+       "RowCount" -> 1, "Length" -> 1, "InitialType" -> TypeSystem`Vector[
+          TypeSystem`Assoc[
+           TypeSystem`Atom[
+            TypeSystem`Enumeration[
+            "24h_volume_usd", "available_supply", "id", "last_updated", 
+             "market_cap_usd", "name", "percent_change_1h", 
+             "percent_change_24h", "percent_change_7d", "price_btc", 
+             "price_usd", "rank", "symbol", "total_supply"]], 
+           TypeSystem`Atom[String], 14], 1], "Shape" -> 
+        TypeSystem`PackageScope`Limited[
+          TypeSystem`PackageScope`ColumnShape[
+           TypeSystem`PackageScope`Limited[
+            TypeSystem`PackageScope`ColumnShape[
+             TypeSystem`PackageScope`KeyValueShape[
+              TypeSystem`PackageScope`AtomShape[162.], 
+              TypeSystem`PackageScope`AtomShape[115.20000000000002`]]], 14, {
+            All}]], 1, {}], "InitialData" -> 
+        TypeSystem`PackageScope`CacheHandle[422200377], "Type" -> 
+        TypeSystem`Vector[
+          TypeSystem`Assoc[
+           TypeSystem`Atom[
+            TypeSystem`Enumeration[
+            "24h_volume_usd", "available_supply", "id", "last_updated", 
+             "market_cap_usd", "name", "percent_change_1h", 
+             "percent_change_24h", "percent_change_7d", "price_btc", 
+             "price_usd", "rank", "symbol", "total_supply"]], 
+           TypeSystem`Atom[String], 14], 1], "HandleQ" -> True, "RowTarget" -> 
+        20, "Data" -> TypeSystem`PackageScope`CacheHandle[422200377]], 
+      TypeSystem`NestedGrid`PackagePrivate`$path$$ = {}, 
+      TypeSystem`NestedGrid`PackagePrivate`$pos$$ = 1, 
+      TypeSystem`NestedGrid`PackagePrivate`$grid$$ = 
+      DynamicModule[{
+        TypeSystem`NestedGrid`PackagePrivate`renderedGrid = Deploy[
+           Style[
+            Grid[{{
+               Item[
+                Pane[
+                 Annotation[
+                  EventHandler[
+                   MouseAppearance[
+                    Mouseover["id", 
+                    Style[
+                    "id", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1346018035][{1, 
+                    Key["id"]}]], 
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                  1346018035][
+                   GeneralUtilities`Slice[1, 
+                    Key["id"]]], "Mouse"], 
+                 ImageSize -> {{162., Full}, Automatic}], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation["bitcoin", 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][
+                  GeneralUtilities`Slice[1, 
+                   Key["id"]]], "Mouse"], 
+                ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}]}, {
+               Item[
+                Pane[
+                 Annotation[
+                  EventHandler[
+                   MouseAppearance[
+                    Mouseover["name", 
+                    Style[
+                    "name", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1346018035][{1, 
+                    Key["name"]}]], 
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                  1346018035][
+                   GeneralUtilities`Slice[1, 
+                    Key["name"]]], "Mouse"], 
+                 ImageSize -> {{162., Full}, Automatic}], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation["Bitcoin", 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][
+                  GeneralUtilities`Slice[1, 
+                   Key["name"]]], "Mouse"], 
+                ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}]}, {
+               Item[
+                Pane[
+                 Annotation[
+                  EventHandler[
+                   MouseAppearance[
+                    Mouseover["symbol", 
+                    Style[
+                    "symbol", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1346018035][{1, 
+                    Key["symbol"]}]], 
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                  1346018035][
+                   GeneralUtilities`Slice[1, 
+                    Key["symbol"]]], "Mouse"], 
+                 ImageSize -> {{162., Full}, Automatic}], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation["BTC", 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][
+                  GeneralUtilities`Slice[1, 
+                   Key["symbol"]]], "Mouse"], 
+                ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}]}, {
+               Item[
+                Pane[
+                 Annotation[
+                  EventHandler[
+                   MouseAppearance[
+                    Mouseover["rank", 
+                    Style[
+                    "rank", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1346018035][{1, 
+                    Key["rank"]}]], 
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                  1346018035][
+                   GeneralUtilities`Slice[1, 
+                    Key["rank"]]], "Mouse"], 
+                 ImageSize -> {{162., Full}, Automatic}], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation["1", 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][
+                  GeneralUtilities`Slice[1, 
+                   Key["rank"]]], "Mouse"], 
+                ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}]}, {
+               Item[
+                Pane[
+                 Annotation[
+                  EventHandler[
+                   MouseAppearance[
+                    Mouseover["price_usd", 
+                    Style[
+                    "price_usd", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1346018035][{1, 
+                    Key["price_usd"]}]], 
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                  1346018035][
+                   GeneralUtilities`Slice[1, 
+                    Key["price_usd"]]], "Mouse"], 
+                 ImageSize -> {{162., Full}, Automatic}], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation["6612.52", 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][
+                  GeneralUtilities`Slice[1, 
+                   Key["price_usd"]]], "Mouse"], 
+                ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}]}, {
+               Item[
+                Pane[
+                 Annotation[
+                  EventHandler[
+                   MouseAppearance[
+                    Mouseover["price_btc", 
+                    Style[
+                    "price_btc", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1346018035][{1, 
+                    Key["price_btc"]}]], 
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                  1346018035][
+                   GeneralUtilities`Slice[1, 
+                    Key["price_btc"]]], "Mouse"], 
+                 ImageSize -> {{162., Full}, Automatic}], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation["1.0", 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][
+                  GeneralUtilities`Slice[1, 
+                   Key["price_btc"]]], "Mouse"], 
+                ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}]}, {
+               Item[
+                Pane[
+                 Annotation[
+                  EventHandler[
+                   MouseAppearance[
+                    Mouseover["24h_volume_usd", 
+                    Style[
+                    "24h_volume_usd", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1346018035][{1, 
+                    Key["24h_volume_usd"]}]], 
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                  1346018035][
+                   GeneralUtilities`Slice[1, 
+                    Key["24h_volume_usd"]]], "Mouse"], 
+                 ImageSize -> {{162., Full}, Automatic}], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation["2697830000.0", 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][
+                  GeneralUtilities`Slice[1, 
+                   Key["24h_volume_usd"]]], "Mouse"], 
+                ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}]}, {
+               Item[
+                Pane[
+                 Annotation[
+                  EventHandler[
+                   MouseAppearance[
+                    Mouseover["market_cap_usd", 
+                    Style[
+                    "market_cap_usd", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1346018035][{1, 
+                    Key["market_cap_usd"]}]], 
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                  1346018035][
+                   GeneralUtilities`Slice[1, 
+                    Key["market_cap_usd"]]], "Mouse"], 
+                 ImageSize -> {{162., Full}, Automatic}], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation["110154743770", 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][
+                  GeneralUtilities`Slice[1, 
+                   Key["market_cap_usd"]]], "Mouse"], 
+                ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}]}, {
+               Item[
+                Pane[
+                 Annotation[
+                  EventHandler[
+                   MouseAppearance[
+                    Mouseover["available_supply", 
+                    Style[
+                    "available_supply", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1346018035][{1, 
+                    Key["available_supply"]}]], 
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                  1346018035][
+                   GeneralUtilities`Slice[1, 
+                    Key["available_supply"]]], "Mouse"], 
+                 ImageSize -> {{162., Full}, Automatic}], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation["16658512.0", 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][
+                  GeneralUtilities`Slice[1, 
+                   Key["available_supply"]]], "Mouse"], 
+                ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}]}, {
+               Item[
+                Pane[
+                 Annotation[
+                  EventHandler[
+                   MouseAppearance[
+                    Mouseover["total_supply", 
+                    Style[
+                    "total_supply", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1346018035][{1, 
+                    Key["total_supply"]}]], 
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                  1346018035][
+                   GeneralUtilities`Slice[1, 
+                    Key["total_supply"]]], "Mouse"], 
+                 ImageSize -> {{162., Full}, Automatic}], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation["16658512.0", 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][
+                  GeneralUtilities`Slice[1, 
+                   Key["total_supply"]]], "Mouse"], 
+                ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}]}, {
+               Item[
+                Pane[
+                 Annotation[
+                  EventHandler[
+                   MouseAppearance[
+                    Mouseover["percent_change_1h", 
+                    Style[
+                    "percent_change_1h", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1346018035][{1, 
+                    Key["percent_change_1h"]}]], 
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                  1346018035][
+                   GeneralUtilities`Slice[1, 
+                    Key["percent_change_1h"]]], "Mouse"], 
+                 ImageSize -> {{162., Full}, Automatic}], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation["0.01", 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][
+                  GeneralUtilities`Slice[1, 
+                   Key["percent_change_1h"]]], "Mouse"], 
+                ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}]}, {
+               Item[
+                Pane[
+                 Annotation[
+                  EventHandler[
+                   MouseAppearance[
+                    Mouseover["percent_change_24h", 
+                    Style[
+                    "percent_change_24h", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1346018035][{1, 
+                    Key["percent_change_24h"]}]], 
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                  1346018035][
+                   GeneralUtilities`Slice[1, 
+                    Key["percent_change_24h"]]], "Mouse"], 
+                 ImageSize -> {{162., Full}, Automatic}], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation["3.94", 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][
+                  GeneralUtilities`Slice[1, 
+                   Key["percent_change_24h"]]], "Mouse"], 
+                ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}]}, {
+               Item[
+                Pane[
+                 Annotation[
+                  EventHandler[
+                   MouseAppearance[
+                    Mouseover["percent_change_7d", 
+                    Style[
+                    "percent_change_7d", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1346018035][{1, 
+                    Key["percent_change_7d"]}]], 
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                  1346018035][
+                   GeneralUtilities`Slice[1, 
+                    Key["percent_change_7d"]]], "Mouse"], 
+                 ImageSize -> {{162., Full}, Automatic}], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation["17.57", 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][
+                  GeneralUtilities`Slice[1, 
+                   Key["percent_change_7d"]]], "Mouse"], 
+                ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}]}, {
+               Item[
+                Pane[
+                 Annotation[
+                  EventHandler[
+                   MouseAppearance[
+                    Mouseover["last_updated", 
+                    Style[
+                    "last_updated", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                    TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1346018035][{1, 
+                    Key["last_updated"]}]], 
+                  TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                  1346018035][
+                   GeneralUtilities`Slice[1, 
+                    Key["last_updated"]]], "Mouse"], 
+                 ImageSize -> {{162., Full}, Automatic}], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation["1509566052", 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][
+                  GeneralUtilities`Slice[1, 
+                   Key["last_updated"]]], "Mouse"], 
+                ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}]}}, BaseStyle -> {ContextMenu -> {
+                 MenuItem["Copy position to clipboard", 
+                  KernelExecute[
+                   TypeSystem`NestedGrid`PackagePrivate`toCurrentPosition[
+                   TypeSystem`NestedGrid`PackagePrivate`copyClip]], 
+                  MenuEvaluator -> Automatic], 
+                 MenuItem["Copy data to clipboard", 
+                  KernelExecute[
+                   TypeSystem`NestedGrid`PackagePrivate`toCurrentData[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`copyClip]], 
+                  MenuEvaluator -> Automatic], Delimiter, 
+                 MenuItem["Paste position in new cell", 
+                  KernelExecute[
+                   TypeSystem`NestedGrid`PackagePrivate`toCurrentPosition[
+                   TypeSystem`NestedGrid`PackagePrivate`cellPaste]], 
+                  MenuEvaluator -> Automatic], 
+                 MenuItem["Paste data in new cell", 
+                  KernelExecute[
+                   TypeSystem`NestedGrid`PackagePrivate`toCurrentData[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`cellPaste]], 
+                  MenuEvaluator -> Automatic]}, FontFamily -> "Verdana", 
+               FontSize -> 12}, Alignment -> Left, RowMinHeight -> 1.5, 
+             Dividers -> All, FrameStyle -> GrayLevel[0.85], 
+             BaseStyle -> {FontFamily -> "Verdana", FontSize -> 12}], 
+            LineBreakWithin -> False, ContextMenu -> {}, NumberMarks -> False,
+             ShowAutoStyles -> False]], 
+         TypeSystem`NestedGrid`PackagePrivate`initialQ = True, 
+         TypeSystem`NestedGrid`PackagePrivate`self = $Failed}, 
+        Dynamic[
+         TypeSystem`NestedGrid`PackagePrivate`setupViewPath[
+         TypeSystem`NestedGrid`PackagePrivate`$path$$, If[
+            Not[TypeSystem`NestedGrid`PackagePrivate`initialQ], 
+            
+            Module[{TypeSystem`NestedGrid`PackagePrivate`tmpGrid$ = $Failed, 
+              TypeSystem`NestedGrid`PackagePrivate`tmpData$ = 
+              TypeSystem`NestedGrid`PackagePrivate`LookupCacheValue[
+                TypeSystem`NestedGrid`PackagePrivate`$state$$["Data"]]}, 
+             TypeSystem`NestedGrid`PackagePrivate`tmpGrid$ = 
+              If[TypeSystem`NestedGrid`PackagePrivate`tmpData$ === 
+                TypeSystem`NestedGrid`PackagePrivate`$NotCached, 
+                TypeSystem`NestedGrid`PackagePrivate`renderedGrid, 
+                TypeSystem`NestedGrid`PackagePrivate`renderGrid[
+                TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                 TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                 TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                 TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1346018035][
+                TypeSystem`NestedGrid`PackagePrivate`tmpData$]]; If[
+               Not[
+                FailureQ[TypeSystem`NestedGrid`PackagePrivate`tmpGrid$]], 
+               TypeSystem`NestedGrid`PackagePrivate`renderedGrid = 
+               TypeSystem`NestedGrid`PackagePrivate`tmpGrid$]; Null]]; 
+          TypeSystem`NestedGrid`PackagePrivate`initialQ = False; 
+          TypeSystem`NestedGrid`PackagePrivate`$pos$$; If[
+            FailureQ[TypeSystem`NestedGrid`PackagePrivate`renderedGrid], 
+            TypeSystem`SparseGrid[
+             TypeSystem`H["(data no longer present)"]], 
+            If[GeneralUtilities`$DebugMode, 
+             Row[{TypeSystem`NestedGrid`PackagePrivate`renderedGrid, "  ", 
+               TypeSystem`NestedGrid`PackagePrivate`formatState[
+               TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                TypeSystem`NestedGrid`PackagePrivate`$pos$$]}], 
+             TypeSystem`NestedGrid`PackagePrivate`renderedGrid]]], 
+         TrackedSymbols :> {TypeSystem`NestedGrid`PackagePrivate`$pos$$}], 
+        DynamicModuleValues :> {}], 
+      TypeSystem`NestedGrid`PackagePrivate`$posCell$$, 
+      TypeSystem`NestedGrid`PackagePrivate`$topBar$$ = Dynamic[
+        TypeSystem`NestedGrid`PackagePrivate`alignBar[
+        TypeSystem`NestedGrid`PackagePrivate`$state$$][
+         TypeSystem`NestedGrid`PackagePrivate`makeFramedBar[
+          TypeSystem`PackageScope`Pathbar[
+          TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+           TypeSystem`NestedGrid`PackagePrivate`updateState[
+           TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+            TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+            TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+            TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1346018035]]]], 
+        TrackedSymbols :> {TypeSystem`NestedGrid`PackagePrivate`$path$$}], 
+      TypeSystem`NestedGrid`PackagePrivate`$bottomBar$$ = Framed[
+        Dynamic[
+         Replace[
+          MouseAnnotation[Null], {
+          TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][Null] -> 
+           "", TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1346018035][
+             Pattern[TypeSystem`NestedGrid`PackagePrivate`path, 
+              Blank[]]] :> (
+            TypeSystem`NestedGrid`PackagePrivate`$lastPath = 
+             TypeSystem`NestedGrid`PackagePrivate`path; 
+            TypeSystem`NestedGrid`PackagePrivate`makePathTrail[
+             TypeSystem`NestedGrid`PackagePrivate`path, 
+              TypeSystem`NestedGrid`PackagePrivate`makePathElements]), Null :> 
+           Spacer[10], Blank[] :> Spacer[10]}], TrackedSymbols :> {}], 
+        FrameStyle -> None, ImageMargins -> 0, FrameMargins -> 0, Alignment -> 
+        Top, ImageSize -> {Automatic, 14}]}, 
+     DynamicBox[
+      ToBoxes[
+       Column[
+        If[TypeSystem`NestedGrid`PackagePrivate`$path$$ == {}, {
+          TypeSystem`NestedGrid`PackagePrivate`displayScrollBar[
+          TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+           TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+           TypeSystem`NestedGrid`PackagePrivate`$pos$$], 
+          TypeSystem`NestedGrid`PackagePrivate`onDesktopShow[
+           TypeSystem`NestedGrid`PackagePrivate`alignBar[
+           TypeSystem`NestedGrid`PackagePrivate`$state$$][
+           TypeSystem`NestedGrid`PackagePrivate`$bottomBar$$]]}, {
+         TypeSystem`NestedGrid`PackagePrivate`$topBar$$, 
+          TypeSystem`NestedGrid`PackagePrivate`displayScrollBar[
+          TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+           TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+           TypeSystem`NestedGrid`PackagePrivate`$pos$$], 
+          TypeSystem`NestedGrid`PackagePrivate`onDesktopShow[
+           TypeSystem`NestedGrid`PackagePrivate`alignBar[
+           TypeSystem`NestedGrid`PackagePrivate`$state$$][
+           TypeSystem`NestedGrid`PackagePrivate`$bottomBar$$]]}], Spacings -> 
+        If[TypeSystem`NestedGrid`PackagePrivate`$path$$ == {}, 
+          0, {{}, {0, 0.05, 0}}]], StandardForm], 
+      ImageSizeCache -> {298., {180., 186.}}, 
+      TrackedSymbols :> {
+       TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+        TypeSystem`NestedGrid`PackagePrivate`$grid$$}], 
+     BaseStyle -> {LineBreakWithin -> False}, Deinitialization :> 
+     TypeSystem`NestedGrid`PackagePrivate`deleteState[
+      TypeSystem`NestedGrid`PackagePrivate`$state$$], 
+     DynamicModuleValues :> {}, Initialization :> 
+     Block[{$ContextPath = $ContextPath}, 
+       Needs["TypeSystem`"]]], Deploy, DefaultBaseStyle -> "Deploy"]},
+  "CopyTag",
+  DisplayFunction->(#& ),
+  InterpretationFunction->("Dataset[<>]"& )]], "Output",
  CellChangeTimes->{
-  3.718551394464259*^9},ExpressionUUID->"5f59ab9c-dbb2-4e0a-ad7c-\
-a477cca64527"]
+  3.718555115560825*^9},ExpressionUUID->"dab3494c-685b-42d8-8849-\
+5eb4066d3849"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["examples", "Subsubsection",
+ CellChangeTimes->{{3.718553805675603*^9, 
+  3.7185538065722313`*^9}},ExpressionUUID->"d77b3018-de6c-4609-82be-\
+298f41982b6c"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"data", "=", 
+   RowBox[{"{", "}"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"RemoveScheduledTask", "/@", 
+   RowBox[{"ScheduledTasks", "[", "]"}]}], ";"}], "\n", 
+ RowBox[{"RunScheduledTask", "[", 
+  RowBox[{
+   RowBox[{"AppendTo", "[", 
+    RowBox[{"data", ",", 
+     RowBox[{"First", "@", 
+      RowBox[{"Normal", "@", 
+       RowBox[{
+        RowBox[{"SingleTicker", "[", "\"\<bitcoin\>\"", "]"}], "[", 
+        RowBox[{"All", ",", 
+         RowBox[{
+          RowBox[{"{", 
+           RowBox[{
+            RowBox[{"FromUnixTime", "[", 
+             RowBox[{"ToExpression", "[", 
+              RowBox[{"#", "[", "\"\<last_updated\>\"", "]"}], "]"}], "]"}], 
+            ",", 
+            RowBox[{"ToExpression", "[", 
+             RowBox[{"#", "[", "\"\<price_usd\>\"", "]"}], "]"}]}], "}"}], 
+          "&"}]}], "]"}]}]}]}], "]"}], ",", "15"}], "]"}]}], "Input",
+ CellChangeTimes->{{3.7185549992299137`*^9, 3.71855502184452*^9}, {
+  3.7185550667326455`*^9, 3.718555150476565*^9}, {3.7185552618610725`*^9, 
+  3.7185552689317064`*^9}},ExpressionUUID->"392b5448-b668-4ed8-845b-\
+3dafe4a0893c"],
+
+Cell[BoxData[
+ InterpretationBox[
+  RowBox[{
+   TagBox["ScheduledTaskObject",
+    "SummaryHead"], "[", 
+   DynamicModuleBox[{Typeset`open$$ = False, Typeset`embedState$$ = "Ready"}, 
+    TemplateBox[{PaneSelectorBox[{False -> GridBox[{{
+            PaneBox[
+             ButtonBox[
+              DynamicBox[
+               FEPrivate`FrontEndResource[
+               "FEBitmaps", "SquarePlusIconMedium"]], 
+              ButtonFunction :> (Typeset`open$$ = True), Appearance -> None, 
+              Evaluator -> Automatic, Method -> "Preemptive"], 
+             Alignment -> {Center, Center}, ImageSize -> 
+             Dynamic[{
+               Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                AbsoluteCurrentValue[Magnification]}]], 
+            GraphicsBox[{
+              Thickness[0.0016806722689075631`], {
+               FaceForm[{
+                 GrayLevel[0.93], 
+                 Opacity[1.]}], 
+               
+               FilledCurveBox[{{{1, 4, 3}, {0, 1, 0}, {1, 3, 3}, {0, 1, 0}, {
+                1, 3, 3}, {0, 1, 0}, {1, 3, 3}, {0, 1, 0}}}, {{{
+                25.499999999999996`, 2.5}, {25.499999999999996`, 
+                1.3953100000000003`}, {24.604699999999998`, 
+                0.49999999999999994`}, {23.5, 0.49999999999999994`}, {2.5, 
+                0.49999999999999994`}, {1.3953100000000003`, 
+                0.49999999999999994`}, {0.49999999999999994`, 
+                1.3953100000000003`}, {0.49999999999999994`, 2.5}, {
+                0.49999999999999994`, 23.5}, {0.49999999999999994`, 
+                24.604699999999998`}, {1.3953100000000003`, 
+                25.499999999999996`}, {2.5, 25.499999999999996`}, {23.5, 
+                25.499999999999996`}, {24.604699999999998`, 
+                25.499999999999996`}, {25.499999999999996`, 
+                24.604699999999998`}, {25.499999999999996`, 23.5}, {
+                25.499999999999996`, 2.5}}}]}, {
+               RGBColor[0.699951, 0.699951, 0.699951], 
+               Opacity[1.], 
+               JoinForm[{"Miter", 10.}], 
+               
+               JoinedCurveBox[{{{1, 4, 3}, {0, 1, 0}, {1, 3, 3}, {0, 1, 0}, {
+                1, 3, 3}, {0, 1, 0}, {1, 3, 3}, {0, 1, 0}}}, {{{
+                25.499999999999996`, 2.5}, {25.499999999999996`, 
+                1.3953100000000003`}, {24.604699999999998`, 
+                0.49999999999999994`}, {23.5, 0.49999999999999994`}, {2.5, 
+                0.49999999999999994`}, {1.3953100000000003`, 
+                0.49999999999999994`}, {0.49999999999999994`, 
+                1.3953100000000003`}, {0.49999999999999994`, 2.5}, {
+                0.49999999999999994`, 23.5}, {0.49999999999999994`, 
+                24.604699999999998`}, {1.3953100000000003`, 
+                25.499999999999996`}, {2.5, 25.499999999999996`}, {23.5, 
+                25.499999999999996`}, {24.604699999999998`, 
+                25.499999999999996`}, {25.499999999999996`, 
+                24.604699999999998`}, {25.499999999999996`, 23.5}, {
+                25.499999999999996`, 2.5}}}]}, {
+               FaceForm[{
+                 RGBColor[0.5, 0.5, 0.5], 
+                 Opacity[1.]}], 
+               
+               FilledCurveBox[{{{1, 4, 3}, {1, 3, 3}, {1, 3, 3}, {1, 3, 
+                3}}, {{1, 4, 3}, {1, 3, 3}, {1, 3, 3}, {1, 3, 
+                3}}}, CompressedData["
+1:eJxTTMoPSmVmYGBgAmJeKN3AcrTfsFzTIaOEfaOxq6TD/X18c4yDlOD8Exu6
+zI34JR1Ou9aop+UqwfniLGF8upM04XyHpkfHZ0QbwPVbdDomPHUwdoCZD+OX
+Ms3ikPYzgPNzOH8uSDc2huuH8WHmw/gw+2H6Ye5Ddz+Mz8Ok3S520sQhuERl
++v8FCnB+8VbR36ffCTm0Lw8/ZWRiCOfD7IPxzwTLFhnvUYDrF66cVHJWRRhu
+Pow/30bnyiw1QzgfqHpC3W4TuH4YH2Y+jA+zH6Yf5j509wMALxiYpA==
+                "]], 
+               
+               FilledCurveBox[{{{0, 2, 0}, {1, 3, 3}, {0, 1, 0}, {0, 1, 0}, {
+                 1, 3, 3}, {1, 3, 3}, {0, 1, 0}, {0, 1, 0}, {1, 3, 3}, {0, 1, 
+                 0}, {0, 1, 0}, {0, 1, 0}}, {{1, 4, 3}, {1, 3, 3}, {1, 3, 
+                 3}, {1, 3, 3}}}, {CompressedData["
+1:eJxTTMoPSmViYGAQBWIQ7aJayjTrhZ7D7ltdf1PdlR18TrDbzv6q7lD9aUNA
+tpWGgxtYXt0hIHtW+RwnDQdWIRH7Y3fUHYCqQud7azg8Oj5j97QL6g4Z+R9a
+T4ZoOBjM1JKYukXdof63VcG5DA2HG43FblO2Ac1LNAo1yNJwyBNqPnDKUd2B
+mbNLPvmchsMXr8g2i29qDlL6d1XYEjXh/OtCnxzPs2nB+d8PpaxK2KLlsOMi
+wz0mT3WHcn85sSxfbQeP/bWyFsfVHXq8XrGYbNR2EHi5fT0zkH9EYUNRBpAP
+Vn8SKL/h4cupm7Qd9CYs+GH4TN1Bva5nZ/ZJbQdv807HBFYNh/VTUjuS72pD
+7FXTcJgQ88/511tth9vSNYlGqQYOv1d+vOS7ycDhjgpb49TF2g4siydZMb7V
+dEAPPwB9A46P
+                 "], {{12.732799999999997`, 18.446499999999997`}, {
+                 9.606250000000001, 18.446499999999997`}, {7.071879999999999, 
+                 15.912100000000002`}, {7.071879999999999, 
+                 12.785499999999997`}, {7.071879999999999, 
+                 9.659379999999999}, {9.606250000000001, 7.124999999999999}, {
+                 12.732799999999997`, 7.124999999999999}, {
+                 15.859000000000002`, 7.124999999999999}, {
+                 18.393399999999996`, 9.659379999999999}, {
+                 18.393399999999996`, 12.785499999999997`}, {
+                 18.393399999999996`, 15.912100000000002`}, {
+                 15.859000000000002`, 18.446499999999997`}, {
+                 12.732799999999997`, 18.446499999999997`}}}], 
+               
+               FilledCurveBox[{{{0, 2, 0}, {1, 3, 3}}}, {{{
+                11.892600000000002`, 13.848800000000004`}, {12.0758, 
+                13.964799999999997`}, {12.010499999999999`, 13.9324}, {
+                11.9496, 13.893399999999998`}, {11.892600000000002`, 
+                13.848800000000004`}}}], 
+               
+               FilledCurveBox[{{{0, 2, 0}, {1, 3, 3}}}, {{{
+                11.979700000000001`, 12.114099999999999`}, {
+                11.907399999999999`, 12.165599999999998`}, {
+                11.931199999999999`, 12.147699999999999`}, {11.9543, 
+                12.130099999999999`}, {11.979700000000001`, 
+                12.114099999999999`}}}], 
+               
+               FilledCurveBox[{{{0, 2, 0}, {1, 3, 3}, {0, 1, 0}}}, {{{11.8887,
+                 13.846499999999999`}, {11.8891, 13.8461}, {11.8902, 
+                13.846899999999998`}, {11.8914, 13.847999999999999`}, {
+                11.892600000000002`, 13.848800000000004`}, {11.8887, 
+                13.846499999999999`}}}], 
+               
+               FilledCurveBox[{{{0, 2, 0}, {1, 3, 3}, {0, 1, 0}}}, {{{
+                11.852699999999999`, 12.2047}, {11.907399999999999`, 
+                12.165599999999998`}, {11.889800000000001`, 
+                12.178899999999999`}, {11.8734, 12.1934}, {11.8566, 
+                12.207399999999998`}, {11.852699999999999`, 12.2047}}}]}}, 
+             Axes -> False, AspectRatio -> 1, ImageSize -> {Automatic, 31.5}, 
+             Frame -> True, FrameTicks -> None, FrameStyle -> Directive[
+               Thickness[Tiny], 
+               GrayLevel[0.7]]], 
+            GridBox[{{
+               RowBox[{
+                 TagBox["\"Unique ID: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox["9", "SummaryItem"]}]}, {
+               RowBox[{
+                 TagBox["\"Repetitions: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox["\[Infinity]", "SummaryItem"]}]}}, 
+             GridBoxAlignment -> {
+              "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, AutoDelete -> 
+             False, GridBoxItemSize -> {
+              "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+             GridBoxSpacings -> {"Columns" -> {{2}}, "Rows" -> {{Automatic}}},
+              BaseStyle -> {
+              ShowStringCharacters -> False, NumberMarks -> False, 
+               PrintPrecision -> 3, ShowSyntaxStyles -> False}]}}, 
+          GridBoxAlignment -> {"Rows" -> {{Top}}}, AutoDelete -> False, 
+          GridBoxItemSize -> {
+           "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+          BaselinePosition -> {1, 1}], True -> GridBox[{{
+            PaneBox[
+             ButtonBox[
+              DynamicBox[
+               FEPrivate`FrontEndResource[
+               "FEBitmaps", "SquareMinusIconMedium"]], 
+              ButtonFunction :> (Typeset`open$$ = False), Appearance -> None, 
+              Evaluator -> Automatic, Method -> "Preemptive"], 
+             Alignment -> {Center, Center}, ImageSize -> 
+             Dynamic[{
+               Automatic, 3.5 CurrentValue["FontCapHeight"]/
+                AbsoluteCurrentValue[Magnification]}]], 
+            GraphicsBox[{
+              Thickness[0.0016806722689075631`], {
+               FaceForm[{
+                 GrayLevel[0.93], 
+                 Opacity[1.]}], 
+               
+               FilledCurveBox[{{{1, 4, 3}, {0, 1, 0}, {1, 3, 3}, {0, 1, 0}, {
+                1, 3, 3}, {0, 1, 0}, {1, 3, 3}, {0, 1, 0}}}, {{{
+                25.499999999999996`, 2.5}, {25.499999999999996`, 
+                1.3953100000000003`}, {24.604699999999998`, 
+                0.49999999999999994`}, {23.5, 0.49999999999999994`}, {2.5, 
+                0.49999999999999994`}, {1.3953100000000003`, 
+                0.49999999999999994`}, {0.49999999999999994`, 
+                1.3953100000000003`}, {0.49999999999999994`, 2.5}, {
+                0.49999999999999994`, 23.5}, {0.49999999999999994`, 
+                24.604699999999998`}, {1.3953100000000003`, 
+                25.499999999999996`}, {2.5, 25.499999999999996`}, {23.5, 
+                25.499999999999996`}, {24.604699999999998`, 
+                25.499999999999996`}, {25.499999999999996`, 
+                24.604699999999998`}, {25.499999999999996`, 23.5}, {
+                25.499999999999996`, 2.5}}}]}, {
+               RGBColor[0.699951, 0.699951, 0.699951], 
+               Opacity[1.], 
+               JoinForm[{"Miter", 10.}], 
+               
+               JoinedCurveBox[{{{1, 4, 3}, {0, 1, 0}, {1, 3, 3}, {0, 1, 0}, {
+                1, 3, 3}, {0, 1, 0}, {1, 3, 3}, {0, 1, 0}}}, {{{
+                25.499999999999996`, 2.5}, {25.499999999999996`, 
+                1.3953100000000003`}, {24.604699999999998`, 
+                0.49999999999999994`}, {23.5, 0.49999999999999994`}, {2.5, 
+                0.49999999999999994`}, {1.3953100000000003`, 
+                0.49999999999999994`}, {0.49999999999999994`, 
+                1.3953100000000003`}, {0.49999999999999994`, 2.5}, {
+                0.49999999999999994`, 23.5}, {0.49999999999999994`, 
+                24.604699999999998`}, {1.3953100000000003`, 
+                25.499999999999996`}, {2.5, 25.499999999999996`}, {23.5, 
+                25.499999999999996`}, {24.604699999999998`, 
+                25.499999999999996`}, {25.499999999999996`, 
+                24.604699999999998`}, {25.499999999999996`, 23.5}, {
+                25.499999999999996`, 2.5}}}]}, {
+               FaceForm[{
+                 RGBColor[0.5, 0.5, 0.5], 
+                 Opacity[1.]}], 
+               
+               FilledCurveBox[{{{1, 4, 3}, {1, 3, 3}, {1, 3, 3}, {1, 3, 
+                3}}, {{1, 4, 3}, {1, 3, 3}, {1, 3, 3}, {1, 3, 
+                3}}}, CompressedData["
+1:eJxTTMoPSmVmYGBgAmJeKN3AcrTfsFzTIaOEfaOxq6TD/X18c4yDlOD8Exu6
+zI34JR1Ou9aop+UqwfniLGF8upM04XyHpkfHZ0QbwPVbdDomPHUwdoCZD+OX
+Ms3ikPYzgPNzOH8uSDc2huuH8WHmw/gw+2H6Ye5Ddz+Mz8Ok3S520sQhuERl
++v8FCnB+8VbR36ffCTm0Lw8/ZWRiCOfD7IPxzwTLFhnvUYDrF66cVHJWRRhu
+Pow/30bnyiw1QzgfqHpC3W4TuH4YH2Y+jA+zH6Yf5j509wMALxiYpA==
+                "]], 
+               
+               FilledCurveBox[{{{0, 2, 0}, {1, 3, 3}, {0, 1, 0}, {0, 1, 0}, {
+                 1, 3, 3}, {1, 3, 3}, {0, 1, 0}, {0, 1, 0}, {1, 3, 3}, {0, 1, 
+                 0}, {0, 1, 0}, {0, 1, 0}}, {{1, 4, 3}, {1, 3, 3}, {1, 3, 
+                 3}, {1, 3, 3}}}, {CompressedData["
+1:eJxTTMoPSmViYGAQBWIQ7aJayjTrhZ7D7ltdf1PdlR18TrDbzv6q7lD9aUNA
+tpWGgxtYXt0hIHtW+RwnDQdWIRH7Y3fUHYCqQud7azg8Oj5j97QL6g4Z+R9a
+T4ZoOBjM1JKYukXdof63VcG5DA2HG43FblO2Ac1LNAo1yNJwyBNqPnDKUd2B
+mbNLPvmchsMXr8g2i29qDlL6d1XYEjXh/OtCnxzPs2nB+d8PpaxK2KLlsOMi
+wz0mT3WHcn85sSxfbQeP/bWyFsfVHXq8XrGYbNR2EHi5fT0zkH9EYUNRBpAP
+Vn8SKL/h4cupm7Qd9CYs+GH4TN1Bva5nZ/ZJbQdv807HBFYNh/VTUjuS72pD
+7FXTcJgQ88/511tth9vSNYlGqQYOv1d+vOS7ycDhjgpb49TF2g4siydZMb7V
+dEAPPwB9A46P
+                 "], {{12.732799999999997`, 18.446499999999997`}, {
+                 9.606250000000001, 18.446499999999997`}, {7.071879999999999, 
+                 15.912100000000002`}, {7.071879999999999, 
+                 12.785499999999997`}, {7.071879999999999, 
+                 9.659379999999999}, {9.606250000000001, 7.124999999999999}, {
+                 12.732799999999997`, 7.124999999999999}, {
+                 15.859000000000002`, 7.124999999999999}, {
+                 18.393399999999996`, 9.659379999999999}, {
+                 18.393399999999996`, 12.785499999999997`}, {
+                 18.393399999999996`, 15.912100000000002`}, {
+                 15.859000000000002`, 18.446499999999997`}, {
+                 12.732799999999997`, 18.446499999999997`}}}], 
+               
+               FilledCurveBox[{{{0, 2, 0}, {1, 3, 3}}}, {{{
+                11.892600000000002`, 13.848800000000004`}, {12.0758, 
+                13.964799999999997`}, {12.010499999999999`, 13.9324}, {
+                11.9496, 13.893399999999998`}, {11.892600000000002`, 
+                13.848800000000004`}}}], 
+               
+               FilledCurveBox[{{{0, 2, 0}, {1, 3, 3}}}, {{{
+                11.979700000000001`, 12.114099999999999`}, {
+                11.907399999999999`, 12.165599999999998`}, {
+                11.931199999999999`, 12.147699999999999`}, {11.9543, 
+                12.130099999999999`}, {11.979700000000001`, 
+                12.114099999999999`}}}], 
+               
+               FilledCurveBox[{{{0, 2, 0}, {1, 3, 3}, {0, 1, 0}}}, {{{11.8887,
+                 13.846499999999999`}, {11.8891, 13.8461}, {11.8902, 
+                13.846899999999998`}, {11.8914, 13.847999999999999`}, {
+                11.892600000000002`, 13.848800000000004`}, {11.8887, 
+                13.846499999999999`}}}], 
+               
+               FilledCurveBox[{{{0, 2, 0}, {1, 3, 3}, {0, 1, 0}}}, {{{
+                11.852699999999999`, 12.2047}, {11.907399999999999`, 
+                12.165599999999998`}, {11.889800000000001`, 
+                12.178899999999999`}, {11.8734, 12.1934}, {11.8566, 
+                12.207399999999998`}, {11.852699999999999`, 12.2047}}}]}}, 
+             Axes -> False, AspectRatio -> 1, ImageSize -> {Automatic, 31.5}, 
+             Frame -> True, FrameTicks -> None, FrameStyle -> Directive[
+               Thickness[Tiny], 
+               GrayLevel[0.7]]], 
+            GridBox[{{
+               RowBox[{
+                 TagBox["\"Unique ID: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox["9", "SummaryItem"]}]}, {
+               RowBox[{
+                 TagBox["\"Repetitions: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox["\[Infinity]", "SummaryItem"]}]}, {
+               RowBox[{
+                 TagBox[
+                 "\"Interval between runs: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox["15", "SummaryItem"], "\[InvisibleSpace]", 
+                 TagBox["\" seconds\"", "SummaryItemAnnotation"]}]}, {
+               RowBox[{
+                 TagBox["\"Minimum start time: \"", "SummaryItemAnnotation"], 
+                 "\[InvisibleSpace]", 
+                 TagBox["Automatic", "SummaryItem"]}]}}, 
+             GridBoxAlignment -> {
+              "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, AutoDelete -> 
+             False, GridBoxItemSize -> {
+              "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+             GridBoxSpacings -> {"Columns" -> {{2}}, "Rows" -> {{Automatic}}},
+              BaseStyle -> {
+              ShowStringCharacters -> False, NumberMarks -> False, 
+               PrintPrecision -> 3, ShowSyntaxStyles -> False}]}}, 
+          GridBoxAlignment -> {"Rows" -> {{Top}}}, AutoDelete -> False, 
+          GridBoxItemSize -> {
+           "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+          BaselinePosition -> {1, 1}]}, 
+       Dynamic[Typeset`open$$], ImageSize -> Automatic]},
+     "SummaryPanel"],
+    DynamicModuleValues:>{}], "]"}],
+  ScheduledTaskObject[9, 
+   HoldForm[
+    AppendTo[$CellContext`data, 
+     First[
+      Normal[
+       CoinMarketCap`SingleTicker["bitcoin"][All, {
+         FromUnixTime[
+          ToExpression[
+           #["last_updated"]]], 
+         ToExpression[
+          #["price_usd"]]}& ]]]]], {15, 
+    DirectedInfinity[1]}, Automatic, True, "AutoRemove" -> False, 
+   "EpilogFunction" :> Null, "TaskGroup" -> "Global`"],
+  Editable->False,
+  SelectWithContents->True,
+  Selectable->False]], "Output",
+ CellChangeTimes->{3.718555022882513*^9, 3.7185550785519905`*^9, 
+  3.7185552711547637`*^9},ExpressionUUID->"091d3b3d-b15d-4ef6-ada4-\
+b5a02e799321"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Dynamic", "[", 
+  RowBox[{"DateListPlot", "[", "data", "]"}], "]"}]], "Input",
+ CellChangeTimes->{{3.718555027646092*^9, 3.7185550279403725`*^9}, {
+  3.7185550803718824`*^9, 3.718555083588445*^9}, {3.718555279884527*^9, 
+  3.7185553142361*^9}, {3.7185553915397043`*^9, 
+  3.718555391723345*^9}},ExpressionUUID->"12f6f6bb-8c2f-4e31-b7af-\
+dafb22beb0ee"],
+
+Cell[BoxData[
+ DynamicBox[ToBoxes[
+   DateListPlot[$CellContext`data], StandardForm],
+  ImageSizeCache->{360., {110., 116.}}]], "Output",
+ CellChangeTimes->{{3.718555028671072*^9, 3.7185550928227186`*^9}, {
+  3.7185552891937323`*^9, 3.718555315257105*^9}, {3.718555389049358*^9, 
+  3.718555392142595*^9}},ImageCache->GraphicsData["CompressedBitmap", "\<\
+eJztXA2MVNUVfrvzswvLCioqdKtulGUBqaJEpBSlqIE1lpQYjTUa6nbDuhip
+CsQSrWU1VkIsVlqRjLWKMVRLRELXH9RSqFq3lqmIxm5LCZTSRQKaLdgiSuh0
+zr1z59733nnnfTPsmiWBMLOzd8797nnnfue8c+69b2c0L2ibPbd5wZyW5vrp
+85rvaJvTMr9+2u3z8k2JCs+raPM875/1Hn3O5T8W3nL5/7k59EYtpX1uUj8S
++fdur6M942Xzv1Wqtlovm2n1Wlv1q72jW7Xmclkv097hdetRHZl2r6Pb9E0G
+20f18jAJBq8xcozBZY1h2pKqNeH0y3kNfW62/CuT7W2zJQ1eNlPsU+0SIe0b
+SkFq0cpCz+6Odi+T1V/ptkFKpNWMGv+5sdyR0lGIlYyZyh5lQPQ1KKhWJT+m
+XPhq0USBrmaORva6yYoOFMUEvzVTjLiZfldRRcBW3SeinXPTaPh0FEz0nPca
+tPKeTFb9xnliGdDGAcOTi0JXifbmYlXandaBLIdaW+3vBRIlnNk1nHK7RrQ3
+ljNKOgotepJ7awTXD8xc9801mFhMUzOqnBFqIufCZYFhzAA969PUjzot3pEN
+j6juGHlC2ZuO067DRokOXrg5fqVPxmQw9XCn9clwrr8ay4/ow/FsXvNlmTP/
+6u7w2klOM6dAnOmec7dSyO6IpIFKKdJeWTnAyFLQa4Q7ci4EURK0fDfOW9L1
+XkOAhl40jTtXGqYk/eNTogKKExLs/d3yQIun/PmnL2kMpfSxmf4xoXOO0FgW
+dBWb2JtcrrJww3QZNbKvDKQo1EsG4jKJQgJXag1Id4f8vzz4DHqrcFq9BLV4
+/lTC31bbj9oG9SNdvry2pNt2YgaPw7ZSZnAC03Yp0zYZlOPahtB7xfGiiHq/
+ipVUgur76cVfy0M6Nskr9Bf1+3sOFb9IwL2napIM+/enh599bM2W3Kz7Xmra
++vd9SRhgivqYrv7iyNH2FzZt+6zlx68QyIqVL31AoDjQZepjama2a+9Hc5f+
+lkA67/vlHyZu392jQwuEohmRGrfrowMbFz/9R0IhtO90ftCt72EQyiR9UUP+
++9kXdCGEQhdGF0gXOgAG+rpW5471nTt62pa8RkBrl/06qyarJoZWl+i+NB1d
+P1j+e+q75YeZN7/ZtfNjHcsqEQ0u1ig04is/WfUnQiFN2jZs3uUNhq9jvDXI
+4tUb/mpm+aerXv0LteG+dJFWh4Y3s0xqjdqz/1PvFBhlnEYhbhBHCGXnvGW/
+I+54Q2GU8/VFudwn0yzseHM7zfJpMNBY6wPU2VjnqV+s20rgZwSBCmswlF+Z
+lIzyLJPVBdq5BemIDDkZpeF51rnIUD7nGh5SrzpQQDhLMm7pclJg1SDnsYsO
+kSuEYTVHC95bx6gZGr+wQlFoN2q6S12cmhElrFIzVfTHBusDxHsTFMgfaOaV
+GZN+/dxlPteMhXbUjPICU9iMI4Woc1aUGTMZWx8UVC6060LmJOdK+NUCyYyc
+miOEAFcPkLJYOPtJ6dbTbKVbIinPsRGUrGjCBFnXOwdwbVKZc+18O1eKlura
+9XJoPheOYmfr67z5jS27TWgmJ1ShuQFGOVMIzY0wSp0cmkfBQMP9odm4A4ES
++BgYaJgQQceyKPZOfrruS5YMhbWxRdE4DYZGxx9quwC+lFOF8HAhjHKyRiFv
+Nd5LP8mbvfEwymDBuS6GUWrtLHM+MAEG0jViimbG9QG6IXkTYZSBgg9MglGq
+rQ9QJmHm2/jAN2JIl5aZrxJlKINMCcyfAl9NwvqAyUPJwioPnQqjVMg+cDkM
+pFNQYxTSSNH/SgTgqGU+3a98zJ+GABwRSN+EAHxu5zZYdJEZoOLxsED1qxGA
+QwLLZ0ST8z+W1lxt9S0kHh6UuT0TUf+AVp9mzdCaZlPR+hoEoEdg9LUIwCcy
+ma9DMD62ZA7VU9cjAPsEMt+AAOzVAGT3EJlvRAD2RJOZQG9CMLoFMs+K5uJu
+3Y3EDIWLN+bvIgFyl0zmZkT3f2glOCJ7LQjADsvkUB49GwHYLjD5FgRgm2Uy
+sZcA6GWY3IZg/E1g8q1BgL6ooJUol2Z3CS5yW0gzsHgeCBXP4gkcv5YfWipy
+KfNcRlGofK4Sy+fI0ySqbt4qu7YyXt+UzOJxB7/h3tfTG1x4VLHjziirxVXL
+tbHVMre3zrHvPRujQsXDfIB9bJVcE18l2/1gdmfnXTnyLQA8tqzCmN/J5Ob1
+z1o+WOaouHoXEpE2C3F1IQLwjhBX70YAOv1xNVjX3INgvC3E1XsRgLc0ACVG
+JvxRwqTC3yIWQPV/Q45HPyoKCkNvkuPH/Yj6G617h8qXBxCADYIDPogAvG5n
+kXOVxQjGazyZVdGyBAFYL5D5IQTgZQ0Q3EhQed5SBOBFmcwPIxgdWgl3japI
+5keiubjOUjhUqiyj7+LyvLUymX+O6L7GkpnbJViOYDwvkHkFArBaIHMGAXjO
+ziJXtDyOYDwrkPkJBGCVBgiuPSkyP4kAPGPJHCpaVkbz6GmZwk8hMW2lHjpY
+qigKP4Po/qRA5lUIwBNhMrsLS79CMB73kzlYuDyHYGQEMq9GAFZogOC6KkUH
+7SlxAMtlMq9BMB4VyLwWAfiZJXOovFgXzcVHBAr/BolpD9sp5Mj8IqL7Up7M
+Knd+GQF4SCDzegRgiSWzu0pqbq6vIhiLZTK/jmA8qC/EXU4qknlDEEAsX9Oh
+dmrNZ736BH7abYrbIXrAekgoA90Y0gosXVNO9WUfWzFn1UvYXrtfdr9NjIJQ
+yZoOlay+6jHyEQq74btIXyi7RqzsVk7VKjwS5JaQzCl8zniLhLDxVpTl4srW
+hO8q9LDW6CVs8N4rRKe3AeKxVWuSb672N2Pcu8f6PFdadAIua+vXqlC7nUFz
+ELjKdxA44vE5n4p3C8H1HSQmLdQAweVNFVw3IwB32eDKVS5ZBGOBHFzfRTDm
+2+DqFi8quL6HANwpxMH3WQDV//ZwgHLXNbcWBYWhv29DSahk+RDR/TbB0bsQ
+gFs1QHCFnmZDr7rGAbTJvrINwbhFIPN2BGC2JXOoctmBALTIZN6JYHxPK8Gu
+1e9CAG7mmawql93RRJwl8Pdf9F1csneTZbK7Qm+SvT2I7jcKTN6LANygAdyV
+pCKT9yEA19sp5Mrw/QjGdTKZP0EwrtUXwi4Z9yAA1whkPoAAzJTJfDCaSt/W
+Q7P1ykEkoM0QKHwI0f1qDcAeST2MAFzlJ3OwcvkcwWgSyHwEAZhmyexWLorM
+RxGAK2Uy/w/BuJwns1lTUkIVCNBUy+hQ+aIkoCPlUwRaK4lUNC8vtZPKHa9U
+3ZMIPycLBFcS0DnwSQLLlcRABGWipXooDVYSgxCUCTLflVAtAlQ4DM4unyoJ
+6ET4eJ75Kq1UEicHUY6l3k346t3KQBu9uN3QC2XnUkKh8+a9VwC76glbjxdY
+93WXhE1KoYRC59mPuQoubOeF92xVUfu1uEhwalG01+vfiF1btv7Vh+75Q5VK
+YliU4copgqsc3bF92zHR8azotMjR+1Iq4ZSzrStv346OC5J1gA+XVgAngwVw
+0drOw7OcL+uHc/nVfiVxJhK1GuJC8dkIyrlAKA6dXeeACqfK2XpISYSOlnMo
+9XGheASCcpYNltxJUyXEnwBXOF/1R7FgYWS7x9256+JCz2jkaobbwODWSmpX
+QEmch6CcAbgvf+47AHR62NOKS4lK4nwEZaj1gVDppCTGISinxPnARQjKEDvf
+3OlTJQSdAB8c5wPQCfDaOB+4JJq6NZb5XBllu8fV1wMAH4COfutT3/w+gpKY
+jKCkeR9QJZaSuAxBSQI+MAUBKhz+Jhd0fcDmnVNxlATZ18/9K0roTTNUbMN7
+q/e4B4GbEKYISGVL9pvnpfuNIlzO058ezj/xxwhO/DmJ47FNnMHQH3pRUiX8
+uRiv4v9p1og7\
+\>"],ExpressionUUID->"691517d9-d051-4f25-abba-eeea4876b4f8"]
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{958, 998},
-WindowMargins->{{Automatic, -967}, {Automatic, 0}},
+WindowSize->{1920, 1007},
+WindowMargins->{{1912, Automatic}, {Automatic, -8}},
 FrontEndVersion->"11.3 for Microsoft Windows (64-bit) (October 22, 2017)",
 StyleDefinitions->"Default.nb"
 ]
@@ -9040,7 +10105,7 @@ Cell[CellGroupData[{
 Cell[743, 27, 159, 3, 44, "Subsubsection",ExpressionUUID->"d9f06502-f513-4505-bb30-966e3e4ff6bc"],
 Cell[CellGroupData[{
 Cell[927, 34, 220, 4, 28, "Input",ExpressionUUID->"757a257d-f6cf-4f24-9955-23105aba1aa7"],
-Cell[1150, 40, 1773, 31, 109, "Output",ExpressionUUID->"442ea8b7-5a87-40da-bc08-e1b4ac8f1f92"]
+Cell[1150, 40, 1773, 31, 52, "Output",ExpressionUUID->"442ea8b7-5a87-40da-bc08-e1b4ac8f1f92"]
 }, Open  ]],
 Cell[2938, 74, 232, 4, 28, "Input",ExpressionUUID->"bc0729e5-e4e0-4581-8cd2-4a92f1a57625"],
 Cell[CellGroupData[{
@@ -9069,7 +10134,22 @@ Cell[411713, 8095, 21219, 412, 185, "Output",ExpressionUUID->"f0adfab4-6431-4883
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[432969, 8512, 246, 5, 28, "Input",ExpressionUUID->"bf7f50db-76b2-432f-8ddc-91c6e3af1920"],
-Cell[433218, 8519, 25455, 498, 235, "Output",ExpressionUUID->"5f59ab9c-dbb2-4e0a-ad7c-a477cca64527"]
+Cell[433218, 8519, 25479, 498, 235, "Output",ExpressionUUID->"5f093bfd-c8b9-4224-97e6-9c6adf00b32f"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[458734, 9022, 207, 4, 28, "Input",ExpressionUUID->"96680c75-3f03-4680-9546-2f407519c759"],
+Cell[458944, 9028, 31346, 607, 385, "Output",ExpressionUUID->"dab3494c-685b-42d8-8849-5eb4066d3849"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[490339, 9641, 161, 3, 44, "Subsubsection",ExpressionUUID->"d77b3018-de6c-4609-82be-298f41982b6c"],
+Cell[CellGroupData[{
+Cell[490525, 9648, 1143, 29, 67, "Input",ExpressionUUID->"392b5448-b668-4ed8-845b-3dafe4a0893c"],
+Cell[491671, 9679, 16831, 316, 71, "Output",ExpressionUUID->"091d3b3d-b15d-4ef6-ada4-b5a02e799321"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[508539, 10000, 376, 7, 28, "Input",ExpressionUUID->"12f6f6bb-8c2f-4e31-b7af-dafb22beb0ee"],
+Cell[508918, 10009, 4394, 73, 243, 137, 3, "CachedBoxData", "BoxData", "Output",ExpressionUUID->"691517d9-d051-4f25-abba-eeea4876b4f8"]
 }, Open  ]]
 }, Open  ]]
 }
